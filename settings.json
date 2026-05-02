@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hollow-gIdp.aternos.me:57619",
+    "ip": "hollow-gIdp.aternos.me",
     "port": 57619,
     "version": "1.21.1"
   },
